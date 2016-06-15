@@ -1,7 +1,7 @@
 # Poster References
 
 ## R packages
-##### Basic Data Manipulation
+##### Data Manipulation
 - reshape2
 - plyr
 - dplyr
@@ -24,7 +24,7 @@
 - foreeach
 - doParallel
 
-##### shiny
+##### Shiny
 - shiny
 - shinydashboard
 - rhandsontable
