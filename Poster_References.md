@@ -1,23 +1,30 @@
 # Poster References
 
 ## R packages
+##### Basic Data Manipulation
 - reshape2
 - plyr
 - dplyr
 - abind
-- MASS
 - zoo
 - RODBC
 - RCurl
-- outliers
+
+##### Stats
+- MASS
 - corrplot
 - moments
+
+##### Modeling
+- outliers
 - leaps
 - caret
 - forecast
 - randomForest
 - foreeach
 - doParallel
+
+##### shiny
 - shiny
 - shinydashboard
 - rhandsontable
