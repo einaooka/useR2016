@@ -3,17 +3,19 @@
 ## R packages
 - reshape2
 - plyr
+- dplyr
+- abind
+- MASS
+- zoo
 - RODBC
 - RCurl
-- abind
-- zoo
 - outliers
 - corrplot
+- moments
 - leaps
 - caret
 - forecast
 - randomForest
-- kohonen
 - foreeach
 - doParallel
 - shiny
@@ -27,5 +29,7 @@ The codes from following packages were modified and utilized in the model:
 and some custom packages for plotting and manipulating stochastic data.
 
 ## Papers
+[Temporal Disaggregation of Time Series](https://journal.r-project.org/archive/2013-2/sax-steiner.pdf)
+[bartMachine: Machine Learning with Bayesian Additive Regression Trees](https://cran.r-project.org/web/packages/bartMachine/vignettes/bartMachine.pdf)
 
 ## Books
