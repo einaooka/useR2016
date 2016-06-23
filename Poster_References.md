@@ -36,3 +36,10 @@ The codes from following packages were modified and utilized in the model:
 and some custom packages for plotting and manipulating stochastic data.
 
 ## Books
+
+Trevor Hastie, Robert Tibshirani & Jerome Friedman (2009). *The Elements of Statistical Learning: Data Mining, Inference, and Prediction*. New York: Springer. 
+
+David Ruppert (2010). *Statistics and Data Analysis for Financial Enginerring*. New York: Springer.
+
+
+
